@@ -54,7 +54,7 @@ This project analyzes retail transaction and customer data to identify trends, i
 - Larger pack sizes correlate with repeat purchases.
 - Tailored marketing strategies can be developed based on segment behavior.
 
-## Recommendations
+## Sample Recommendations
 - Target high-value customer segments with personalized promotions.
 - Optimize inventory based on product trends.
 - Expand to regions resembling Store 88's profile.
